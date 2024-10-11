@@ -8,3 +8,5 @@ Console.WriteLine("Enter Age");
 age = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine($"Data {name}  {age}");
+
+string hobbies= string.Empty;
