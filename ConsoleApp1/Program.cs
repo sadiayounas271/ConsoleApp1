@@ -1,5 +1,6 @@
 ﻿string name = string.Empty;
-int age;
+int age=0;
+char gender = char.MinValue;
 
 Console.WriteLine("enter your name");
 name= Console.ReadLine();
